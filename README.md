@@ -1,0 +1,1 @@
+# diplom-determination-of-coordinates
